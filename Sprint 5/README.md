@@ -1,4 +1,5 @@
 # Sprint 5. Introducció a la visualització de dades
+Exercicis de visualitzacions gràfiques.
 
 ## Exercici 1
 Amb Numpy crea dos Arrays amb 6 valors cadascun entre 0 i 50 i anomena'ls xpoints i ypoints. Amb Matplotlib i amb aquests dos arrays fes un gràfic de línia que passi pels punts que determinen els arrays.
